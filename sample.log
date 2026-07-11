@@ -1,0 +1,6 @@
+INFO user login success
+WARNING password will expire soon
+ERROR database connection failed
+INFO retry connection
+ERROR request timeout
+INFO task completed
